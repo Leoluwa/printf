@@ -1,1 +1,1 @@
-First team project on Alxd :)
+First team project on Alx :)
